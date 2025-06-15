@@ -1,0 +1,737 @@
+STG,TSDB
+Atlanta Hawks,Atlanta Hawks
+Boston Celtics,Boston Celtics
+Brooklyn Nets,Brooklyn Nets
+Charlotte Hornets,Charlotte Hornets
+Chicago Bulls,Chicago Bulls
+Cleveland Cavaliers,Cleveland Cavaliers
+Dallas Mavericks,Dallas Mavericks
+Denver Nuggets,Denver Nuggets
+Detroit Pistons,Detroit Pistons
+Golden State Warriors,Golden State Warriors
+Houston Rockets,Houston Rockets
+Indiana Pacers,Indiana Pacers
+Los Angeles Clippers,Los Angeles Clippers
+Los Angeles Lakers,Los Angeles Lakers
+Memphis Grizzlies,Memphis Grizzlies
+Miami Heat,Miami Heat
+Milwaukee Bucks,Milwaukee Bucks
+Minnesota Timberwolves,Minnesota Timberwolves
+New Orleans Pelicans,New Orleans Pelicans
+New York Knicks,New York Knicks
+Oklahoma City Thunder,Oklahoma City Thunder
+Orlando Magic,Orlando Magic
+Philadelphia 76ers,Philadelphia 76ers
+Phoenix Suns,Phoenix Suns
+Portland Trail Blazers,Portland Trail Blazers
+Sacramento Kings,Sacramento Kings
+San Antonio Spurs,San Antonio Spurs
+Toronto Raptors,Toronto Raptors
+Utah Jazz,Utah Jazz
+Washington Wizards,Washington Wizards
+Fuenlabrada,Baloncesto Fuenlabrada
+Unicaja,Baloncesto Málaga
+Tecnyconta Zaragoza,Basket Zaragoza
+Baskonia,Baskonia
+Manresa,Basquet Manresa
+MoraBanc Andorra,BC Andorra
+Bilbao,Bilbao Basket
+Tenerife,CB 1939 Canarias
+Breogan,CB Breogan
+Gran Canaria,CB Gran Canaria
+San Pablo Burgos,CB Miraflores
+Murcia,CB Murcia
+Barcelona,FC Barcelona Basquet
+Joventut Badalona,Joventut Badalona
+Obradoiro CAB,Obradoiro CAB
+Real Betis,Real Betis Baloncesto
+Real Madrid,Real Madrid Baloncesto
+Valencia,Valencia Basket
+Adelaide,Adelaide 36ers
+Brisbane Bullets,Brisbane Bullets
+Cairns,Cairns Taipans
+Illawarra Hawks,Illawarra Hawks
+Melbourne United,Melbourne United
+New Zealand Breakers,New Zealand Breakers
+Perth,Perth Wildcats
+South East Melbourne,South East Melbourne Phoenix
+Sydney,Sydney Kings
+Tasmania JackJumpers,Tasmania JackJumpers
+Astana,BC Astana
+Enisey,BC Enisey
+Parma Perm,Parma Basket
+Saratov,BC Avtodor Saratov
+Tsmoki Minsk,BC Tsmoki-Minsk
+Zielona Gora,Basket Zielona Góra
+Argentino,Argentino de Junín
+Atenas,Atenas de Córdoba
+Boca Juniors,Boca Juniors
+Olimpico,Ciclista Olímpico
+Comunicaciones Mercedes,Comunicaciones
+Ferro,Ferro Carril Oeste
+Gimnasia,Gimnasia y Esgrima de Comodoro Rivadavia
+Hispano Americano,Hispano Americano
+Instituto de Cordoba,Instituto de Cordoba
+La Union,La Union
+Obera TC,Obera TC
+Obras Sanitarias,Obras Sanitarias
+Penarol,Penarol
+Platense,Platense
+Quimsa,Quimsa
+Regatas,Regatas Corrientes
+Riachuelo,Riachuelo
+San Lorenzo,San Lorenzo
+San Martin,San Martin
+Union De Santa Fe,
+Borac,KK Borac Čačak
+Buducnost,KK Budućnost
+Cedevita Olimpija,KK Cedevita Olimpija
+Cibona,Cibona Zagreb
+Crvena zvezda,KK Crvena zvezda
+FMP Beograd,KK FMP
+Igokea,KK Igokea
+KK Krka Novo Mesto,KK Krka
+Mega Soccerbet,KK Mega Basket
+Mornar Bar,KK Mornar Bar
+Partizan,KK Partizan
+Split,KK Split
+Studentski Centar,KK Studentski centar
+Zadar,KK Zadar
+Dubai,BC Dubai
+Subotica,KK Spartak Subotica
+Bristol Flyers,Bristol Flyers
+Cheshire Phoenix,Cheshire Phoenix
+Glasgow Rocks,Glasgow Rocks
+Leicester Riders,Leicester Riders
+London Lions,London Lions
+Manchester Basketball,Manchester Basketball
+Newcastle Eagles,Newcastle Eagles
+Plymouth City Patriots,Plymouth Raiders
+Sheffield Sharks,Sheffield Sharks
+Surrey 89ers,Surrey 89ers
+Chalons-Reims,Châlons-Reims
+Cholet,Cholet
+Dijon,Dijon
+Fos-sur-Mer,Fos Provence Basket
+Gravelines-Dunkerque,Gravelines-Dunkerque
+JL Bourg,Bourg-en-Bresse
+Le Mans,Le Mans Sarthe Basket
+Le Portel,ESSM Le Portel
+Levallois,Metropolitans 92
+Limoges,Limoges
+Lyon-Villeurbanne,Lyon-Villeurbanne
+Monaco,AS Monaco Basket
+Nanterre,Nanterre
+Orleans,Orléans Loiret Basket
+Paris,Paris Basketball
+Pau-Orthez,Pau-Lacq-Orthez
+Roanne,Chorale Roanne Basket
+Strasbourg,Strasbourg
+Ada Blois,ADA Blois
+Aix Maurienne,AMSB
+Antibes,Antibes Sharks
+ASA,Alliance Sport Alsace
+Boulazac,Boulazac Basket Dordogne
+Chalon/Saone,Élan Chalon
+Denain-Voltaire,Denain Voltaire Basket
+Evreux,ALM Évreux Basket
+Lille,Lille Métropole BC
+Nancy,SLUC Nancy Basket
+Nantes,Hermine Nantes Basket
+Quimper,UJAP Quimper 29
+Rouen,Rouen
+Saint Quentin,Saint-Quentin Basket-Ball
+Saint Vallier,Saint-Vallier Basket Drôme
+St. Chamond,Saint-Chamond Basket
+Tours,Union Tours Basket Métropole
+Vichy-Clermont,JA Vichy-Clermont Métropole Basket
+Basket Napoli,Napoli Basket
+Brescia,Basket Brescia Leonessa
+Brindisi,New Basket Brindisi
+Cremona,Guerino Vanoli Basket
+Fortitudo Bologna,Fortitudo Pallacanestro Bologna
+Olimpia Milano,Olimpia Milano
+Pesaro,Victoria Libertas
+Reggiana,Pallacanestro Reggiana
+Sassari,Dinamo Basket Sassari
+Tortona,Derthona Basket
+Trento,Aquila Basket Trento
+Treviso,Universo Treviso Basket
+Trieste,Pallacanestro Trieste
+Varese,Pallacanestro Varese
+Venezia,Reyer Venezia Mestre
+Virtus Bologna,Virtus Pallacanestro Bologna
+Alba Berlin,ALBA Berlin
+Bamberg,Brose Bamberg
+Basketball Braunschweig,Braunschweig
+Bayern,Bayern München Basketball
+Bayreuth,Bayreuth
+Bonn,Bonn
+Chemnitz,Niners Chemnitz
+Crailsheim,Crailsheim Merlins
+Frankfurt,Frankfurt Skyliners
+Giessen,Gießen 46ers
+Gottingen,BG Göttingen
+Hamburg,Hamburg Towers
+Heidelberg,USC Heidelberg
+Ludwigsburg,Ludwigsburg
+Mitteldeutscher,Mitteldeutscher BC
+Oldenburg,EWE Baskets Oldenburg
+Wurzburg,s.Oliver Würzburg
+Ulm,Ulm
+BC Kalev/Cramo,BC Kalev
+CSKA Moscow,PBC CSKA Moscow
+Lokomotiv Kuban,PBC Lokomotiv Kuban
+Nizhny Novgorod,BC Nizhny Novgorod
+Unics Kazan,BC UNICS
+Zenit Petersburg,BC Zenit Saint Petersburg
+BC Dnipro,BC Dnipro
+BK Zaporozhye,BC Zaporizhya
+Budivelnyk,BC Budivelnyk
+Cherkaski Mavpy,Cherkaski Mavpy
+Kharkivski Sokoly,Kharkivski Soko
+Khimik,BC Khimik
+Kryvbas,BC Kryvbas
+Kyiv Basket,Kyiv-Basket
+Mykolaiv,MBC Mykolaiv
+Odessa,BC Odessa
+Prometey,BC Prometey
+Ternopil-TNEU,BC Ternopil
+Bnei Herzliya,Bnei Herzliya Basket
+Galil Elyon,Hapoel Galil Elyon
+Gilboa Galil,Hapoel Gilboa Galil
+Hapoel Beer Sheva,Hapoel Beer Sheva BC
+Hapoel Eilat,Hapoel Eilat BC
+Hapoel Haifa,Hapoel Haifa BC
+Hapoel Holon,Hapoel Holon
+Hapoel M. Jerusalem,Hapoel Jerusalem BC
+Hapoel Tel-Aviv,Hapoel Tel Aviv BC
+Maccabi Rishon,Maccabi Rishon LeZion
+Maccabi Tel Aviv,Maccabi Tel Aviv BC
+Nes Ziona,Ironi Nes Ziona BC
+Agua Caliente Clippers,Agua Caliente Clippers
+Austin Toros Spurs,Austin Spurs
+Canton Charge,Cleveland Charge
+Capital City Go-Go,Capital City Go-Go
+College Park Skyhawks,College Park Skyhawks
+Delaware 87ers,Delaware Blue Coats
+Erie BayHawks,Birmingham Squadron
+Fort Wayne Mad Ants,Fort Wayne Mad Ants
+Grand Rapids Drive,Grand Rapids Gold
+Greensboro Swarm,Greensboro Swarm
+Iowa Wolves,Iowa Wolves
+Lakeland Magic,Lakeland Magic
+Long Island Nets,Long Island Nets
+Maine Red Claws,Maine Celtics
+Memphis Hustle,Memphis Hustle
+Northern Arizona Suns,Motor City Cruise
+Oklahoma City Blue,Oklahoma City Blue
+Raptors 905,Raptors 905
+Rio Grande Valley Vipers,Rio Grande Valley Vipers
+Salt Lake City Stars,Salt Lake City Stars
+Santa Cruz Warriors,Santa Cruz Warriors
+Sioux Falls Skyforce,Sioux Falls Skyforce
+South Bay Lakers,South Bay Lakers
+Stockton Kings,Stockton Kings
+Texas Legends,Texas Legends
+Westchester,Westchester Knicks
+Windy City Bulls,Windy City Bulls
+Wisconsin Herd,Wisconsin Herd
+Adelaide Lightning W,Adelaide Lightning
+Bendigo W,Bendigo Spirit
+Canberra Capitals W,Canberra Capitals
+Dandenong W,Melbourne Boomers
+Melbourne Boomers W,Perth Lynx
+Perth Lynx W,Southside Flyers
+Sydney W,Sydney Uni Flames
+Townsville W,Townsville Fire
+Beijing,Beijing Ducks
+Beijing Royal Fighters,Beijing Royal Fighters
+Fujian,Fujian Xunxing
+Guangdong,Guangdong Southern Tigers
+Guangzhou,Guangzhou Long-Lions
+Jiangsu Dragons,Jiangsu Dragons
+Jilin,Jilin Northeast Tigers
+Liaoning,Liaoning Flying Leopards
+Nanjing Tongxi,Nanjing Monkey Kings
+Ningbo Rockets,Ningbo Rockets
+Qingdao,Qingdao Eagles
+Shandong,Shandong Golden Star
+Shanghai,Shanghai Sharks
+Shanxi Zhongyu,Shanxi Loongs
+Shenzhen,Shenzhen Aviators
+Sichuan,Sichuan Blue Whales
+Tianjin,Tianjin Ronggang
+Xinjiang,Xinjiang Flying Tigers
+Zhejiang Chouzhou,Zhejiang Chouzhou
+Zhejiang Guangsha,Zhejiang Guangsha
+Afyon Belediye,Afyon Belediye SK
+Anadolu Efes,Anadolu Efes SK
+Bahcesehir Koleji,Bahçeşehir Koleji SK
+Besiktas,Besiktas Basketbol
+Bursaspor,Bursaspor Basketbol
+Buyukcekmece,Büyükçekmece Basketbol
+Darussafaka,Darüşşafaka SK
+Fenerbahce,Fenerbahçe Basketbol
+Galatasaray,Galatasaray SK
+Gaziantep,Gaziantep Basketbol
+Merkezefendi,Merkezefendi Belediyesi Denizli Basket
+Petkim Spor,Petkim Spor
+Pinar Karsiyaka,Karşıyaka Basket
+Tofas,Tofaş SK
+Turk Telekom,Türk Telekom BK
+Yalovaspor,Yalovaspor BK
+AEK Athens,AEK BC
+Apollon Patras,Apollon Patras BC
+Aris,Aris BC
+Ionikos,Ionikos Nikaias BC
+Iraklis,Iraklis BC
+Kolossos Rhodes,Kolossos BC
+Ermis Agias,Larisa BC
+Lavrio,Lavrio BC
+Olympiakos,Olympiacos BC
+Panathinaikos,Panathinaikos BC
+PAOK,PAOK BC
+Peristeri,Peristeri BC
+Prometheus,Promitheas Patras BC
+Cluj Napoca,CS Universitatea Cluj-Napoca
+Lietuvos Rytas,BC Lietuvos rytas
+Nymburk,Basketball Nymburk
+Oostende,BC Oostende
+Ostrow Wielkopolski,Stal Ostrów Wielkopolski
+Szombathely,Falco KC
+VEF Riga,BK VEF Rīga
+Lietkabelis,BC Lietkabelis
+Slask Wroclaw,Śląsk Wrocław
+Zalgiris Kaunas,BC Žalgiris
+Breidablik,Breiðablik
+Grindavik,Grindavík
+IR Reykjavik,ÍR
+Keflavik,Keflavík
+KR Basket,KR
+Njardvik,Njarðvík
+Stjarnan,Stjarnan
+Thor AK Akureyri,Þór Akureyri
+Thorl,Thor Thorl
+Tindastoll,Tindastóll
+Valur,Valur
+Vestri,Vestri
+Gargzdu,BC Gargždai-SC
+Jonavos Sintek,BC Jonava
+Juventus,BC Juventus
+Neptunas,BC Neptūnas
+Nevezis,BC Nevėžis
+Pieno Zvaigzdes,BC Pieno žvaigždės
+Labas Gas,BC Prienai
+Siauliai,BC Šiauliai
+BC Wolves,BC Wolves
+Antwerp Giants,Antwerp Giants
+Amsterdam,Apollo Amsterdam
+Leeuwarden,Aris Leeuwarden
+BAL Weert,BAL Weert
+Belfius Mons,Belfius Mons-Hainaut
+Den Helder,Den Helder Suns
+Donar Groningen,Donar
+Rotterdam,Feyenoord Basketball
+Heroes Den Bosch,Heroes Den Bosch
+Mechelen,Kangoeroes Mechelen
+Zwolle,Landstede Hammers
+Leuven Bears,Leuven Bears
+Limburg,Limburg United
+Okapi Aalstar,Okapi Aalstar
+Phoenix Brussels,Phoenix Brussels
+Spirou Charleroi,Spirou Charleroi
+Hague,The Hague Royals
+Liege,VOO Liège
+Yoast Utd,Yoast United
+Leiden,ZZ Leiden
+Auckland Tuatara,Auckland Tuatara
+Canterbury Rams,Canterbury Rams
+Franklin Bulls,Franklin Bulls
+Hawkes Bay Hawks,Bay Hawks
+Manawatu Jets,Manawatu Jets
+Nelson Giants,Nelson Giants
+Otago Nuggets,Otago Nuggets
+Southland Sharks,Southland Sharks
+Taranaki Airs,Taranaki Mountainairs
+Tauranga Whai,Whai
+Gdynia,Arka Gdynia Basketball
+Czarni Slupsk,Czarni Słupsk
+Dziki Warszawa,Dziki Warszawa
+GTK Gliwice,GTK Gliwice
+Szczecin,King Szczecin
+Anwil Wloclawek,KK Włocławek
+Legia,Legia Warszawa
+Dabrowa Gornicza,MKS Dąbrowa Górnicza
+Lancut,Sokół Łańcut
+Spojnia Stargard,Spójnia Stargard
+Lublin,Start Lublin
+Trefl Sopot,Trefl Sopot
+Torun,Twarde Pierniki Toruń
+Ironi Ramat-Gan,Maccabi Ironi Ramat Gan
+Manisa,Manisa BB
+Vechta,Rasta Vechta
+Benfica,S.L. Benfica
+Wellington Saints,Wellington Saints
+Atlanta Dream W,Atlanta Dream
+Chicago Sky W,Chicago Sky
+Connecticut Sun W,Connecticut Sun
+Dallas Wings W,Dallas Wings
+Indiana Fever W,Indiana Fever
+Las Vegas Aces W,Las Vegas Aces
+Los Angeles Sparks W,Los Angeles Sparks
+Minnesota Lynx W,Minnesota Lynx
+New York Liberty W,New York Liberty
+Phoenix Mercury W,Phoenix Mercury
+Seattle Storm W,Seattle Storm
+Washington Mystics W,Washington Mystics
+Albania,Albania Basketball
+Armenia,Armenia Basketball
+Austria,Austria Basketball
+Belarus,Belarus Basketball
+Belgium,Belgium Basketball
+Bosnia & Herzegovina,Bosnia-Herzegovina Basketball
+Bulgaria,Bulgaria Basketball
+Croatia,Croatia Basketball
+Cyprus,Cyprus Basketball
+Czech Republic,Czech Republic Basketball
+Denmark,Denmark Basketball
+Estonia,Estonia Basketball
+Finland,Finland Basketball
+France,France Basketball
+FYR Macedonia,FYR Macedonia Basketball
+Georgia,Georgia Basketball
+Germany,Germany Basketball
+Great Britain,Great Britain Basketball
+Greece,Greece Basketball
+Hungary,Hungary Basketball
+Iceland,Iceland Basketball
+Ireland,Ireland Basketball
+Israel,Israel Basketball
+Italy,Italy Basketball
+Kosovo,Kosovo Basketball
+Latvia,Latvia Basketball
+Lithuania,Lithuania Basketball
+Luxembourg,Luxembourg Basketball
+Montenegro,Montenegro Basketball
+Netherlands,Netherlands Basketball
+Norway,Norway Basketball
+Poland,Poland Basketball
+Portugal,Portugal Basketball
+Romania,Romania Basketball
+Russia,Russia Basketball
+Serbia,Serbia Basketball
+Slovakia,Slovakia Basketball
+Slovenia,Slovenia Basketball
+Spain,Spain Basketball
+Sweden,Sweden Basketball
+Switzerland,Switzerland Basketball
+Turkey,Turkey Basketball
+Ukraine,Ukraine Basketball
+Argentina,Argentina Basketball
+Bahamas,Bahamas Basketball
+Brazil,Brazil Basketball
+Canada,Canada Basketball
+Chile,Chile Basketball
+Colombia,Colombia Basketball
+Cuba,Cuba Basketball
+Dominican Republic,Dominican Republic Basketball
+Mexico,Mexico Basketball
+Panama,Panama Basketball
+Paraguay,Paraguay Basketball
+Puerto Rico,Puerto Rico Basketball
+Uruguay,Uruguay Basketball
+USA,United States Basketball
+Venezuela,Venezuela Basketball
+Virgin Islands,US Virgin Islands Basketball
+Angola,Angola Basketball
+Australia,Australia Basketball
+Cape Verde,Cape Verde Basketball
+China,China Basketball
+Egypt,Egypt Basketball
+Iran,Iran Basketball
+Ivory Coast,Ivory Coast Basketball
+Japan,Japan Basketball
+Jordan,Jordan Basketball
+Lebanon,Lebanon Basketball
+New Zealand,New Zealand Basketball
+Philippines,Philippines Basketball
+South Sudan,South Sudan Basketball
+Bahrain,Bahrain Basketball
+Central African Republic,Central African Republic Basketball
+Honduras,Honduras Basketball
+Iraq,Iraq Basketball
+Nicaragua,Nicaragua Basketball
+Nigeria,Nigeria Basketball
+Palestine,Palestine Basketball
+Qatar,Qatar Basketball
+Saudi Arabia,Saudi Arabia Basketball
+South Korea,South Korea Basketball
+Syria,Syria Basketball
+Abilene Christian,Abilene Christian
+Air Force,Air Force
+Akron,Akron
+Alabama,Alabama
+American University,American
+Appalachian State,Appalachian State
+Arizona,Arizona
+Arkansas,Arkansas
+Arkansas State,Arkansas State
+Army,Army
+Auburn,Auburn
+Austin Peay,Austin Peay
+Ball State,Ball State
+Baylor,Baylor
+Belmont,Belmont
+Boise State,Boise State
+Boston College,Boston College
+Boston U.,Boston University
+Bradley,Bradley
+Brown,Brown
+Bucknell,Bucknell
+Buffalo,Buffalo
+Butler,Butler
+Cal Poly,Cal Poly
+California,California
+California Baptist,California Baptist
+Campbell,Campbell
+Charleston Southern,Charleston Southern
+Chicago State,Chicago State
+Cincinnati,Cincinnati
+Citadel,The Citadel
+Clemson,Clemson
+Cleveland State,Cleveland State
+Coastal Carolina,Coastal Carolina
+Colgate,Colgate
+Colorado,Colorado
+Colorado State,Colorado State
+Columbia,Columbia
+Connecticut,Connecticut
+Cornell,Cornell
+Creighton,Creighton
+CS Fullerton,Cal State-Fullerton
+Dartmouth,Dartmouth
+Davidson,Davidson
+Delaware,Delaware
+Denver,Denver
+DePaul,DePaul
+Detroit,Detroit
+Drake,Drake
+Drexel,Drexel
+Duke,Duke
+Duquesne,Duquesne
+East Carolina,East Carolina
+East Tennessee State,East Tennessee State
+Eastern Illinois,Eastern Illinois
+Eastern Kentucky,Eastern Kentucky
+Elon Phoenix,Elon
+Evansville,Evansville
+Fairfield,Fairfield
+Fla Atlantic,Florida Atlantic
+Florida,Florida
+Florida Gulf Coast,Florida Gulf Coast
+Florida Intl,Florida International
+Florida State,Florida State
+Fordham,Fordham
+Furman,Furman
+Gardner Webb,Gardner-Webb
+George Washington,George Washington
+Georgetown,Georgetown University
+Georgia,Georgia
+Georgia Southern,Georgia Southern
+Georgia State,Georgia State
+Georgia Tech,Georgia Tech
+Gonzaga,Gonzaga
+Grand Canyon,Grand Canyon
+Hampton,Hampton
+Hartford,Hartford
+Harvard,Harvard
+Hawaii,Hawaii
+High Point,High Point
+Holy Cross Crusaders,Holy Cross
+Houston,Houston
+Houston Baptist,Houston Baptist
+Idaho,Idaho
+Idaho State,Idaho State
+Illinois,Illinois
+Illinois State,Illinois State
+Incarnate Word,Incarnate Word
+Indiana,Indiana
+Indiana State,Indiana State
+Iona,Iona
+Iowa,Iowa
+Iowa State,Iowa State
+IUPUI,IUPUI
+Jacksonville,Jacksonville
+Jacksonville State,Jacksonville State
+James Madison,James Madison
+Kansas,Kansas
+Kansas State,Kansas State
+Kennesaw State,Kennesaw State
+Kent State,Kent State
+Kentucky,Kentucky
+Lafayette,Lafayette
+Lamar,Lamar
+Lehigh,Lehigh
+Liberty,Liberty
+Lipscomb,Lipscomb
+Long Beach State,Long Beach State
+Longwood,Longwood
+Louisiana Lafayette,Louisiana-Lafayette
+Louisiana Monroe,Louisiana-Monroe
+Louisiana Tech,Louisiana Tech
+Louisville,Louisville
+Loyola Chicago,Loyola-Chicago
+Loyola Maryland,Loyola-Maryland
+Loyola Marymnt,Loyola Marymount
+LSU,LSU
+Manhattan,Manhattan
+Marquette,Marquette
+Marshall,Marshall
+Maryland,Maryland
+Mcneese State,McNeese State
+Memphis,Memphis
+Mercer,Mercer
+Miami FL,Miami
+Miami Ohio,Miami-Ohio
+Michigan,Michigan
+Michigan State,Michigan State
+Middle Tennessee State,Middle Tennessee
+Minnesota,Minnesota
+Mississippi State,Mississippi State
+Missouri,Missouri
+Missouri State,Missouri State
+Monmouth,Monmouth
+Montana,Montana
+Montana State,Montana State
+Morehead State,Morehead State
+Murray State,Murray State
+Navy,Navy
+Nebraska,Nebraska
+Nevada,Nevada
+New Hampshire,New Hampshire
+New Mexico,New Mexico
+New Mexico State,New Mexico State
+Nicholls State,Nicholls State
+Norfolk State,Norfolk State
+North Carolina,North Carolina
+North Carolina A&T,North Carolina A&T
+North Carolina State,North Carolina State
+North Dakota,North Dakota
+North Dakota St,North Dakota State
+North Florida,North Florida
+North Texas,North Texas
+Northern Arizona,Northern Arizona
+Northern Colorado,Northern Colorado
+Northern Kentucky,Northern Kentucky
+Northwestern,Northwestern
+Northwestern St.,Northwestern State
+Notre Dame,Notre Dame
+Oakland,Oakland
+Ohio,Ohio
+Ohio State,Ohio State
+Oklahoma,Oklahoma
+Oklahoma State,Oklahoma State
+Old Dominion,Old Dominion
+Oregon,Oregon
+Oregon State,Oregon State
+Pacific,Pacific
+Penn State,Penn State
+Pepperdine,Pepperdine
+Pittsburgh,Pittsburgh
+Portland State,Portland State
+Presbyterian,Presbyterian
+Princeton,Princeton
+Providence,Providence
+Purdue,Purdue
+Radford,Radford
+Rhode Island,Rhode Island
+Rice,Rice
+Richmond,Richmond
+Robert Morris,Robert Morris
+Rutgers,Rutgers
+Sacramento State,Sacramento State
+Saint Josephs,Saint Josephs
+Sam Houston St.,Sam Houston State
+Samford,Samford
+San Diego State,San Diego State
+San Francisco,San Francisco
+Santa Clara,Santa Clara
+Seattle,Seattle
+Seton Hall,Seton Hall
+South Alabama,South Alabama
+South Carolina,South Carolina
+South Dakota St.,South Dakota State
+South Florida,South Florida
+Southeast Missouri State,Southeast Missouri State
+Southeastern Louisiana,Southeastern Louisiana
+Southern Illinois,Southern Illinois
+Southern Mississippi,Southern Mississippi
+Southern Utah,Southern Utah
+St. Bonaventure,St Bonaventure
+St. John's N.Y.,St Johns
+St. Louis,Saint Louis
+St. Marys CA,Saint Marys-California
+St. Peters,Saint Peters
+St. Thomas,St. Thomas (Minnesota)
+Stanford,Stanford
+Stephen F. Austin,Stephen F Austin
+Stetson,Stetson
+Syracuse,Syracuse
+Tarleton,Tarleton State
+TCU,TCU
+Temple,Temple
+Tennessee,Tennessee
+Tennessee State,Tennessee State
+Tennessee Tech,Tennessee Tech
+Texas,Texas
+Texas A&M,Texas A&M
+Texas A&M-CC,Texas A&M-Corpus Christi
+Texas Southern,Texas Southern
+Texas State,Texas State
+Texas Tech,Texas Tech
+Toledo,Toledo
+Troy,Troy
+Tulane,Tulane
+Tulsa,Tulsa
+UAB,UAB
+UC Davis,UC Davis
+UC Irvine,UC Irvine
+UC Riverside,UC Riverside
+UC Santa Barbara,UC-Santa Barbara
+UCF Knights,UCF Knights
+UCLA,UCLA
+UNC Asheville,UNC Asheville
+UNLV,UNLV
+USC,USC
+USC Upstate,USC Upstate
+UT Arlington,Texas-Arlington
+UT Chattanooga,Chattanooga
+Utah Valley State,Utah Valley
+Valparaiso,Valparaiso
+Vanderbilt,Vanderbilt
+VCU Rams,VCU
+Vermont,Vermont
+Villanova,Villanova
+Virginia,Virginia
+Virginia Tech,Virginia Tech
+VMI,VMI
+Wake Forest,Wake Forest
+Washington,Washington
+Washington State,Washington State
+Weber State,Weber State
+West Virginia,West Virginia
+Western Carolina,Western Carolina
+Western Illinois,Western Illinois
+Western Kentucky,Western Kentucky
+Western Michigan,Western Michigan
+Winthrop,Winthrop
+Wisconsin,Wisconsin
+Wisconsin Green Bay,Wisconsin-Green Bay
+Wisconsin-Milwaukee,Wisconsin-Milwaukee
+Wofford,Wofford
+Wright State,Wright State
+Wyoming,Wyoming
+Xavier,Xavier
+Yale,Yale
+Youngstown State,Youngstown State

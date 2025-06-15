@@ -1,0 +1,80 @@
+date,time,sport,channel,comp,ht,at
+2025-06-15,7:15PM,Football,OneFootball,Icelandic Úrvalsdeild karla,Fram Reykjavik,FH Hafnarfjordur
+2025-06-15,4:00PM,Football,OneFootball,Icelandic Úrvalsdeild karla,Vestmannaeyjar,Breidablik
+2025-06-15,2:45PM,Football,TV 2 Play,Norwegian 1. Divisjon,ASANE FOTBALL,Skeid
+2025-06-15,5:00PM,Football,TV 2 Play,Norwegian 1. Divisjon,Aalesund,Stabaek
+2025-06-15,5:00PM,Football,TV 2 Sport 1,Norwegian 1. Divisjon,Aalesund,Stabaek
+2025-06-15,2:45PM,Football,TV 2 Play,Norwegian 1. Divisjon,Mjoendalen,Moss
+2025-06-15,2:45PM,Football,TV 2 Play,Norwegian 1. Divisjon,Raufoss,Odd Ballklubb
+2025-06-16,7:15PM,Football,OneFootball,Icelandic Úrvalsdeild karla,Víkingur Reykjavik,KR Reykjavik
+2025-06-16,6:45PM,Football,LOI TV IE,Irish Premier Division,Drogheda,Shamrock
+2025-06-16,6:45PM,Football,LOI TV IE,Irish Premier Division,St Patricks,Shelbourne FC
+2025-06-17,3:00PM,Football,OneFootball,Latvian Higher League,METTA Latvijas Universitāte,BFC Daugavpils
+2025-06-17,5:00PM,Football,OneFootball,Latvian Higher League,SK Super Nova,FK Metalurgs
+2025-06-17,4:00PM,Football,OneFootball,Latvian Higher League,Tukums 2000,FS Jelgava
+2025-06-18,5:00PM,Football,OneFootball,Latvian Higher League,Riga FC,Rīgas Futbola Skola
+2025-06-18,4:45PM,Football,TV 2 Play,Norwegian 1. Divisjon,Kongsvinger,Aalesund
+2025-06-18,4:45PM,Football,TV 2 Play,Norwegian 1. Divisjon,Lillestroem,ASANE FOTBALL
+2025-06-20,6:45PM,Football,LOI TV IE,Irish Premier Division,Drogheda,Sligo
+2025-06-20,6:45PM,Football,LOI TV IE,Irish Premier Division,Galway United,St Patricks
+2025-06-20,7:00PM,Football,LOI TV IE,Irish Premier Division,Shamrock,Cork City FC
+2025-06-20,6:45PM,Football,LOI TV IE,Irish Premier Division,Shelbourne FC,Derry City
+2025-06-20,6:45PM,Football,LOI TV IE,Irish Premier Division,Waterford FC,Bohemians
+2025-06-21,1:45PM,Football,TV 2 Sport 1,Norwegian 1. Divisjon,Start,Stabaek
+2025-06-22,7:00PM,Football,Stöð 2 Sport IS,Icelandic Úrvalsdeild karla,Breidablik,Fram Reykjavik
+2025-06-22,5:00PM,Football,TV 2 Sport 1,Norwegian Eliteserien,Viking,Fredrikstad
+2025-06-23,7:00PM,Football,Stöð 2 Sport IS,Icelandic Úrvalsdeild karla,Valur,KR Reykjavik
+2025-06-26,7:00PM,Football,Stöð 2 Sport IS,Icelandic Úrvalsdeild karla,Stjarnan,Breidablik
+2025-06-28,1:00PM,Football,Veikkaus TV,Swedish Allsvenskan,Hammarby,Halmstad
+2025-06-29,12:00PM,Football,Veikkaus TV,Swedish Allsvenskan,AIK,IFK Gothenburg
+2025-06-29,12:00PM,Football,Veikkaus TV,Swedish Allsvenskan,Degerfors,Brommapojkarna
+2025-06-29,2:30PM,Football,Veikkaus TV,Swedish Allsvenskan,IFK Varnamo,Elfsborg
+2025-06-30,5:00PM,Football,Veikkaus TV,Swedish Allsvenskan,Djurgaarden,Norrkoping
+2025-06-30,5:00PM,Football,Veikkaus TV,Swedish Allsvenskan,Mjallby,Malmo FF
+2025-07-05,3:30PM,Football,Veikkaus TV,Swedish Allsvenskan,Hammarby,IFK Varnamo
+2025-07-06,2:30PM,Football,Veikkaus TV,Swedish Allsvenskan,Djurgaarden,Degerfors
+2025-07-06,2:30PM,Football,Veikkaus TV,Swedish Allsvenskan,Elfsborg,Hacken
+2025-07-06,12:00PM,Football,Veikkaus TV,Swedish Allsvenskan,Halmstad,AIK
+2025-07-06,12:00PM,Football,Veikkaus TV,Swedish Allsvenskan,IFK Gothenburg,Sirius
+2025-07-07,5:00PM,Football,Veikkaus TV,Swedish Allsvenskan,Norrkoping,Brommapojkarna
+2025-07-12,1:00PM,Football,Veikkaus TV,Swedish Allsvenskan,IFK Gothenburg,Elfsborg
+2025-07-18,4:00PM,Football,Dailymotion,Polish Ekstraklasa,Jagiellonia Bialystok,Nieciecza
+2025-07-18,4:00PM,Football,Ekstraklasa TV,Polish Ekstraklasa,Jagiellonia Bialystok,Nieciecza
+2025-07-18,6:30PM,Football,Dailymotion,Polish Ekstraklasa,Lech Poznan,Cracovia Krakow
+2025-07-18,6:30PM,Football,Ekstraklasa TV,Polish Ekstraklasa,Lech Poznan,Cracovia Krakow
+2025-07-19,6:15PM,Football,Dailymotion,Polish Ekstraklasa,GKS Katowice,Rakow Czestochowa
+2025-07-19,6:15PM,Football,Ekstraklasa TV,Polish Ekstraklasa,GKS Katowice,Rakow Czestochowa
+2025-07-19,12:45PM,Football,Dailymotion,Polish Ekstraklasa,Widzew Lodz,Zaglebie Lubin
+2025-07-19,12:45PM,Football,Ekstraklasa TV,Polish Ekstraklasa,Widzew Lodz,Zaglebie Lubin
+2025-07-19,3:30PM,Football,Dailymotion,Polish Ekstraklasa,Wisla Plock,Korona Kielce
+2025-07-19,3:30PM,Football,Ekstraklasa TV,Polish Ekstraklasa,Wisla Plock,Korona Kielce
+2025-07-20,12:45PM,Football,Dailymotion,Polish Ekstraklasa,Gornik Zabrze,Lechia Gdańsk
+2025-07-20,12:45PM,Football,Ekstraklasa TV,Polish Ekstraklasa,Gornik Zabrze,Lechia Gdańsk
+2025-07-20,6:15PM,Football,Dailymotion,Polish Ekstraklasa,Legia Warsaw,Piast Gliwice
+2025-07-20,6:15PM,Football,Ekstraklasa TV,Polish Ekstraklasa,Legia Warsaw,Piast Gliwice
+2025-07-20,3:30PM,Football,Dailymotion,Polish Ekstraklasa,Motor Lublin,Arka Gdynia
+2025-07-20,3:30PM,Football,Ekstraklasa TV,Polish Ekstraklasa,Motor Lublin,Arka Gdynia
+2025-07-21,5:00PM,Football,Dailymotion,Polish Ekstraklasa,Radomiak Radom,Pogon Szczecin
+2025-07-21,5:00PM,Football,Ekstraklasa TV,Polish Ekstraklasa,Radomiak Radom,Pogon Szczecin
+2025-07-26,4:00PM,Football,Dailymotion,Polish Ekstraklasa,Arka Gdynia,Radomiak Radom
+2025-07-26,4:00PM,Football,Ekstraklasa TV,Polish Ekstraklasa,Arka Gdynia,Radomiak Radom
+2025-07-26,4:00PM,Football,Dailymotion,Polish Ekstraklasa,Cracovia Krakow,Nieciecza
+2025-07-26,4:00PM,Football,Ekstraklasa TV,Polish Ekstraklasa,Cracovia Krakow,Nieciecza
+2025-07-26,4:00PM,Football,Dailymotion,Polish Ekstraklasa,GKS Katowice,Zaglebie Lubin
+2025-07-26,4:00PM,Football,Ekstraklasa TV,Polish Ekstraklasa,GKS Katowice,Zaglebie Lubin
+2025-07-26,4:00PM,Football,Dailymotion,Polish Ekstraklasa,Jagiellonia Bialystok,Widzew Lodz
+2025-07-26,4:00PM,Football,Ekstraklasa TV,Polish Ekstraklasa,Jagiellonia Bialystok,Widzew Lodz
+2025-07-26,4:00PM,Football,Dailymotion,Polish Ekstraklasa,Korona Kielce,Legia Warsaw
+2025-07-26,4:00PM,Football,Ekstraklasa TV,Polish Ekstraklasa,Korona Kielce,Legia Warsaw
+2025-07-26,4:00PM,Football,Dailymotion,Polish Ekstraklasa,Lechia Gdańsk,Lech Poznan
+2025-07-26,4:00PM,Football,Ekstraklasa TV,Polish Ekstraklasa,Lechia Gdańsk,Lech Poznan
+2025-07-26,4:00PM,Football,Dailymotion,Polish Ekstraklasa,Piast Gliwice,Gornik Zabrze
+2025-07-26,4:00PM,Football,Ekstraklasa TV,Polish Ekstraklasa,Piast Gliwice,Gornik Zabrze
+2025-07-26,4:00PM,Football,Dailymotion,Polish Ekstraklasa,Pogon Szczecin,Motor Lublin
+2025-07-26,4:00PM,Football,Ekstraklasa TV,Polish Ekstraklasa,Pogon Szczecin,Motor Lublin
+2025-07-26,4:00PM,Football,Dailymotion,Polish Ekstraklasa,Rakow Czestochowa,Wisla Plock
+2025-07-26,4:00PM,Football,Ekstraklasa TV,Polish Ekstraklasa,Rakow Czestochowa,Wisla Plock
+2025-08-02,4:00PM,Football,Dailymotion,Polish Ekstraklasa,Lech Poznan,Gornik Zabrze
+2025-08-02,4:00PM,Football,Ekstraklasa TV,Polish Ekstraklasa,Lech Poznan,Gornik Zabrze
+2025-08-02,4:00PM,Football,Dailymotion,Polish Ekstraklasa,Legia Warsaw,Arka Gdynia
+2025-08-02,4:00PM,Football,Ekstraklasa TV,Polish Ekstraklasa,Legia Warsaw,Arka Gdynia

@@ -1,0 +1,890 @@
+STG,TSDB
+channel-10-sydney,10 AUS
+10BOLD,10 Bold
+channel-7-sydney,7 NSW
+channel-7-brisbane,7 Queensland
+channel-7-adelaide,7 South Australia
+channel-7-melbourne,7 Victoria
+channel-7-perth,7 Western Australia
+7mate-sydney,7mate NSW
+7mate-brisbane,7mate Queensland
+7mate-adelaide,7mate South Australia
+7mate-melbourne,7mate Victoria
+7mate-perth,7mate Western Australia
+abc,ABC
+australia-plus,ABC Australia AU
+australia-plus-ind,ABC Australia IN
+australia-plus-mys,ABC Australia MY
+afn-sports,AFN Sports
+afn-sports-2,AFN Sports 2
+ahltv,AHLTV
+altitude,Altitude Sports
+prime-video-fr,Amazon Prime Video France
+amazon-prime-de,Amazon Prime Video Germany
+prime-video-it,Amazon Prime Video Italy
+amazon-prime-uk,Amazon Prime Video UK
+amazon-prime-us,Amazon Prime Video US
+cro-arena-sport-1,Arena Sport 1 HR
+rs-arena-premium-1,Arena Sport 1 Premium RS
+rs-arena-sport-1,Arena Sport 1 RS
+arena-sport-1-slo,Arena Sport 1 SI
+sk-arena-sport-1,Arena Sport 1 SK
+arena-sport-10,Arena Sport 10 HR
+rs-arena-sport-1x2,Arena Sport 1x2 RS
+cro-arena-sport-2,Arena Sport 2 HR
+rs-arena-premium-2,Arena Sport 2 Premium RS
+rs-arena-sport-2,Arena Sport 2 RS
+arena-sport-2-slo,Arena Sport 2 SI
+sk-arena-sport-2,Arena Sport 2 SK
+cro-arena-sport-3,Arena Sport 3 HR
+rs-arena-premium-3,Arena Sport 3 Premium RS
+rs-arena-sport-3,Arena Sport 3 RS
+arena-sport-3-slo,Arena Sport 3 SI
+cro-arena-sport-4,Arena Sport 4 HR
+rs-arena-sport-4,Arena Sport 4 RS
+arena-sport-4-slo,Arena Sport 4 SI
+cro-arena-sport-5,Arena Sport 5 HR
+rs-arena-sport-5,Arena Sport 5 RS
+arena-sport-6,Arena Sport 6 HR
+rs-arena-sport-6,Arena Sport 6 RS
+arena-sport-7,Arena Sport 7 HR
+rs-arena-sport-7,Arena Sport 7 RS
+arena-sport-8,Arena Sport 8 HR
+rs-arena-sport-8,Arena Sport 8 RS
+arena-sport-9,Arena Sport 9 HR
+arena-sport-bih,Arena Sport BIH
+arena4,Arena4 HU
+arryadia,Arryadia MA
+artsport-1,Art Sport 1
+artsport-2,Art Sport 2
+artsport-3,Art Sport 3
+astro-arena,Astro Arena
+astro-cricket,Astro Cricket
+astro-supersport,Astro SuperSport
+astro-supersport-2,Astro SuperSport 2
+astro-supersport-3,Astro SuperSport 3
+astro-supersport-4,Astro SuperSport 4
+at-and-t-sportsnet-southwest-houston,AT&T Sportsnet Soutwest
+azteca-7,Azteca 7 MX
+bally-sport-ohio-plus,Bally Sport Ohio Plus
+fox-sports-north,Bally Sports North
+fox-sport-san-diego,Bally Sports San Diego
+fox-sport-tennessee,Bally Sports South/SouthEast - Tennessee
+fox-sports-southeast,Bally Sports Southeast
+bandsports,Band Sports
+barca-tv,Barça TV
+bbc-iplayer,BBC iPlayer
+bbc-1,BBC One
+bbc-1-northern-ireland,BBC One Northern Ireland
+bbc-1-scotland,BBC One Scotland
+bbc-wales,BBC One Wales
+bbc3,BBC Three
+bbc-2,BBC Two
+bbc-2-wales,BBC Two Wales
+au-bein-sports-1,Bein Sports 1 Australia
+qa-bein-sports-1,BeIN Sports 1 Qatar
+tu-bein-sports-1,BeIn Sports 1 Turkey
+au-bein-sports-2,Bein Sports 2 Australia
+qa-bein-sports-2,BeIN Sports 2 Qatar
+tu-bein-sports-2,BeIn Sports 2 Turkey
+au-bein-sports-3,Bein Sports 3 Australia
+qa-bein-sports-3,BeIN Sports 3 Qatar
+tu-bein-sports-3,BeIn Sports 3 Turkey
+qa-bein-sports-4,BeIN Sports 4 Qatar
+tu-bein-sports-4,BeIn Sports 4 Turkey
+us-bein-sports-4,BeIn Sports 4 US
+qa-bein-sports-5,BeIN Sports 5 Qatar
+us-bein-sports-5,BeIn Sports 5 US
+qa-bein-sports-6,BeIN Sports 6 Qatar
+us-bein-sports-6,BeIn Sports 6 US
+qa-bein-sports-7,BeIN Sports 7 Qatar
+us-bein-sports-7,BeIn Sports 7 US
+us-bein-sports-8,BeIn Sports 8 US
+bein-sport-canada,BeIn Sports Canada
+bein-sports-english-1,BeIN Sports English 1 Qatar
+bein-sports-english-2,BeIN Sports English 2 Qatar
+bein-sports-english-3,BeIN Sports English 3 Qatar
+bein-sports-french-1,BeIN Sports French 1 Qatar
+bein-sports-french-2,BeIN Sports French 2 Qatar
+bein-sports-french-3,BeIN Sports French 3 Qatar
+fr-bein-sports-1,BeIn Sports HD 1 France
+fr-bein-sports-2,BeIn Sports HD 2 France
+fr-bein-sports-3,BeIn Sports HD 3 France
+bein-sports-10-max,BeIn Sports Max 10
+bein-sports-4-max,BeIn Sports Max 4
+bein-sports-5-max,BeIn Sports Max 5
+bein-sports-6-max,BeIn Sports Max 6
+bein-sports-7-max,BeIn Sports Max 7
+bein-sports-8-max,BeIn Sports Max 8
+bein-sports-9-max,BeIn Sports Max 9
+bein-sports-n,BeIn Sports N US
+qa-bein-sports-premium-3,BeIN Sports Premium 3 Qatar
+us-bein-sports,BeIn Sports USA
+bein-sports-extra-us,BeIn Sports Xtra Canada
+bein-sports-extra-us,BeIn Sports Xtra US
+belarus-2,Belarus 2
+belarus-5,Belarus 5
+bet365,Bet365
+betis-tv,Betis TV
+betsson-no,Betsson NO
+btn,Big Ten Network
+btn-wisconsin,Big Ten Network
+btn-illinois,Big Ten Network
+blue-sport-1,Blue Sport 1 CH
+blue-sport-2,Blue Sport 2 CH
+blue-sport-3,Blue Sport 3 CH
+blue-sport-4,Blue Sport 4 CH
+blue-sport-5,Blue Sport 5 CH
+blue-sport-6,Blue Sport 6 CH
+box-nation,Box Nation
+c-more-hockey,C More Hockey
+c-more-live,C More Live
+c-more-live-2,C More Live 2
+c-more-live-3,C More Live 3
+c-more-live-4,C More Live 4
+c-more-live-5,C More Live 5
+c-more-sport-1,C More Sport 1 FI
+c-more-sport-2,C More Sport 2 FI
+c-more-sport,C More Sport SE
+c-more-stream,C More Stream SE
+globo-sp,Canais Globo
+canal-plus-family,Canal + Family PL
+fr-canal,Canal + France
+canal-sport-now,Canal + Now PL
+canal-plus-premium,Canal + Premium PL
+canal-sport-2,Canal + Sport 2 PL
+canal-sport-3,Canal + Sport 3 PL
+canal-sport-4,Canal + Sport 4 PL
+fr-canal-sport,Canal + Sport France
+pl-canal-sport,Canal + Sport Polska
+canal-plus-top-14,Canal + Top 14 Rugby
+canal-11,Canal 11 Portugal
+canvas,Canvas
+cbc,CBC
+cbc-sport,CBC Sport AZE
+cbs,CBS
+cbs-sports-network,CBS Sports Network USA
+celtic-tv,Celtic TV
+channel-4,Channel 4
+channel-5,Channel 5
+city-edmonton,City Edmonton
+city-montreal,City Montreal
+city-saskatchewan,City Saskatchewan
+city-toronto,City Toronto
+city-vancouver,City Vancouver
+cnbc,CNBC
+cosmote-sport-1,Cosmote Sport 1 GR
+cosmote-sport-2,Cosmote Sport 2 GR
+cosmote-sport-3,Cosmote Sport 3 GR
+cosmote-sport-4,Cosmote Sport 4 GR
+cosmote-sport-7,Cosmote Sport 7 GR
+ct-sport,CT Sport
+ctv-calgary,CTV Calgary
+ctv-edmonton,CTV Edmonton
+ctv-halifax,CTV Halifax
+ctv-kitchener,CTV Kitchener
+ctv-montreal,CTV Montreal
+ctv-ottawa,CTV Ottawa
+ctv-peterborough,CTV Peterborough
+ctv-toronto,CTV Toronto
+ctv-vancouver,CTV Vancouver
+ctv-winnipeg,CTV Winnipeg
+ctv2-alberta,CTV2 Alberta
+ctv2-atlantic-region,CTV2 Halifax
+ctv2-ottawa,CTV2 Ottawa
+ctv2-toronto,CTV2 Toronto
+ctv2-vancouver,CTV2 Vancouver
+cuatro,Cuatro ES
+dailymotion,Dailymotion
+dajto,Dajto
+das-erste,Das Erste
+dazn-1-fr,DAZN 1 France
+dazn-1-deutschland,DAZN 1 Germany
+dazn-1-es,DAZN 1 Spain
+dazn-1-uk,DAZN 1 UK
+dazn-2-fr,DAZN 2 France
+dazn-2-deutschland,DAZN 2 Germany
+dazn-2-es,DAZN 2 Spain
+dazn-3-fr,DAZN 3 France
+dazn-3-es,DAZN 3 Spain
+dazn-4-fr,DAZN 4 France
+dazn-4-es,DAZN 4 Spain
+dazn-5-fr,DAZN 5 France
+dazn-au,DAZN Australia
+dazn-at,DAZN Austria
+dazn-be,DAZN Belgium
+dazn-brasil,DAZN Brasil
+dazn-canada,DAZN Canada
+dazn-hr,DAZN Croatia
+dazn-cz,DAZN Czechia
+dazn-de,DAZN Germany
+dazn-gr,DAZN Greece
+dazn-it,DAZN Italy
+dazn-japan,DAZN Japan
+dazn-laliga,DAZN LaLiga
+dazn-laliga-2,DAZN LaLiga 2
+dazn-national-league-uk,DAZN National League
+dazn-nz,DAZN New Zealand
+dazn-pl,DAZN Poland
+dazn-pt,DAZN Portugal
+dazn-ru,DAZN Russia
+dazn-rs,DAZN Serbia
+dazn-si,DAZN Slovenia
+dazn-espana,DAZN Spain
+dazn-schweiz,DAZN Switzerland
+dazn-tr,DAZN Turkey
+dazn-usa,DAZN US
+diema-sport-2,Diema Sport 2 BG
+diema-sport-3,Diema Sport 3 BG
+diema-sport,Diema Sport BG
+ro-digi-sport-1,Digi Sport 1 Romania
+ro-digi-sport-2,Digi Sport 2 Romania
+ro-digi-sport-3,Digi Sport 3 Romania
+directv-sports-2-ar,DirecTV Sports 2 Argentina
+directv-sports-ar,DirecTV Sports Argentina
+directv-sports-cl,DirecTV Sports Chile
+directv-sports-co,DirecTV Sports Colombia
+directv-sports-ec,DirecTV Sports Ecuador
+directv-sports-pe,DirecTV Sports Peru
+directv-sports-uy,DirecTV Sports Uruguay
+directv-sports-ve,DirecTV Sports Venezuela
+direktesport,Direktesport NO
+disney-plus-hotstar,Disney+ Hotstar
+dr1,DR 1
+duna-world,Duna World
+dyn-stream,DYN
+ekstraklasa-tv,Ekstraklasa TV
+eleven-pro-league-1,Eleven Pro League 1 Belgium
+eleven-pro-league-2,Eleven Pro League 2 Belgium
+be-eleven-sports-1,Eleven Sports 1 Belgium
+eleven-sports-1-pt,Eleven Sports 1 Portugal
+be-eleven-sports-2,Eleven Sports 2 Belgium
+eleven-sports-2-pt,Eleven Sports 2 Portugal
+be-eleven-sports-3,Eleven Sports 3 Belgium
+eleven-sports-3,Eleven Sports 3 Poland
+eleven-sports-3-pt,Eleven Sports 3 Portugal
+eleven-sports-4-pt,Eleven Sports 4 Portugal
+eleven-sports-5-pt,Eleven Sports 5 Portugal
+eleven-sports-6-pt,Eleven Sports 6 Portugal
+eleven-sports-it,Eleven Sports Italy
+ellas-vamos-moviestar,Ellas Vamos por M+
+ert-1,ERT 1 GR
+ert-2,ERT 2 GR
+ert-3,ERT 3 GR
+ert-sports,ERT Sports 1 GR
+ert-sports-2,ERT Sports 2 GR
+ert-sports-3,ERT Sports 3 GR
+ert-sports-4,ERT Sports 4 GR
+ert-sports-5,ERT Sports 5 GR
+espn-plus-us,ESPN +
+espn-plus-cr,ESPN + Costa Rica
+espn-plus-sv,ESPN + El Salvador
+espn-plus-hn,ESPN + Honduras
+nl-espn-1,ESPN 1 Netherlands
+au-espn2,ESPN 2 Australia
+espn-2-br,ESPN 2 Brazil
+espn-2-cl,ESPN 2 Chile
+espn-2-co,ESPN 2 Colombia
+espn-2-gt,ESPN 2 Guatemala
+espn-2-hn,ESPN 2 Honduras
+nl-espn-2,ESPN 2 Netherlands
+nz-espn-2,ESPN 2 New Zealand
+espn2-ni,ESPN 2 Nicaragua
+espn-2-py,ESPN 2 Paraguay
+espn-2-pe,ESPN 2 Peru
+us-espn2,ESPN 2 US
+espn-2-ve,ESPN 2 Venezuela
+espn-3-br,ESPN 3 Brazil
+espn-3-do,ESPN 3 Dominican Rep
+espn-3-gt,ESPN 3 Guatemala
+espn-3-hn,ESPN 3 Honduras
+nl-espn-3,ESPN 3 Netherlands
+espn-3-py,ESPN 3 Paraguay
+us-espn3,ESPN 3 US
+nl-espn-4,ESPN 4 Netherlands
+sa-fox-sports,ESPN Africa
+espn-ar,ESPN Argentina
+au-espn,ESPN Australia
+espn-brasil,ESPN Brasil
+espn-cl,ESPN Chile
+espn-co,ESPN Colombia
+espn-deportes,ESPN Deportes
+espn-sv,ESPN El Salvador
+espn-extra-ar,ESPN Extra Argentina
+nl-espn-extra,ESPN Extra Netherlands
+espn-gt,ESPN Guatemala
+espn-hn,ESPN Honduras
+mx-espn,ESPN Mexico
+nz-espn,ESPN New Zealand
+espnni,ESPN Nicaragua
+espn-py,ESPN Paraguay
+fox-sports-premium-argentina,ESPN Premium Argentina
+sa-espn,ESPN South Africa
+us-espn,ESPN US
+espnu,ESPNU
+esport-3,Esport 3
+estadio-tnt-sports,Estadio TNT Sports CL
+etb-1,ETB 1
+euroleague-tv,EuroLeague TV
+fr-eurosport-1,Eurosport 1 France
+de-eurosport-1,Eurosport 1 Germany
+lv-eurosport-1,Eurosport 1 LV
+pl-eurosport,Eurosport 1 Poland
+fr-eurosport-2,Eurosport 2 France
+lv-eurosport-2,Eurosport 2 LV
+pl-eurosport-2,Eurosport 2 Poland
+eurosport-3,Eurosport 3 Spain
+eurosport-4,Eurosport 4 Spain
+eurosport-player-fr,Eurosport Player France
+eurosport-player-es,Eurosport Player Spain
+ro-eurosport,Eurosport Romania
+exxen,Exxen TR
+fanatiz-es,Fanatiz INT
+fanatiz,Fanatiz MX
+fox-sports-sun,FanDuel Sports Network Sun
+fef-tv,FEF TV
+footters,Footters
+au-fox-sports-1,FOX Cricket
+fox-deportes,Fox Deportes
+fox-footy,Fox Footy
+fox-league,FOX League
+fox-soccer-plus,Fox Soccer Plus
+fox-sports-br,Fox Sports 1 BR
+us-fox-sports-1,Fox Sports 1 US
+fox-sports-2-ar,FOX Sports 2 Argentina
+fox-sports-2,Fox Sports 2 Brasil
+us-fox-sports-2,Fox Sports 2 US
+fox-sports-3-ar,FOX Sports 3 Argentina
+au-fox-sports-3,FOX Sports 503
+au-fox-sports-5,FOX Sports 505
+au-fox-sports-4,FOX Sports 506
+fox-sports-ar,FOX Sports Argentina
+fox-sports-more,Fox Sports More
+mx-fox-sports,FOX Sports MX
+fox,FOX US
+ftp-play,FPT TV VNM
+france-2,France 2
+freesports,FreeSports
+fubotv,FuboTV
+fuji-tv-next,Fuji TV Next
+fuji-tv-one,Fuji TV One
+fuji-tv-two,Fuji TV Two
+football-1,Futbol 1 UKR
+football-2,Futbol 2 UKR
+go3-sport,Go3 Sport 1 LV
+go3-sport-2,Go3 Sport 2 LV
+go3-sport-3,Go3 Sport 3 LV
+go3-sport-open,Go3 Sport Open
+gol-mundial,Gol Mundial
+gol,Gol Television
+goltv-play,Gol TV Play
+gol-tv,Gol TV USA
+hbo-max-br,HBO Max BR
+hbo-max-mx,HBO Max Mexico
+tu-idman-tv,Idman TV AZE
+efl-ifollow,iFollow
+iqiyi,iQiyi CN
+italia-1,Italia 1
+itv,ITV
+itv-4,ITV4
+itvx,ITVX
+j-sports-1,J Sports 1
+j-sports-2,J Sports 2
+j-sports-3,J Sports 3
+j-sports-4,J Sports 4
+jednotka,Jednotka
+joj-sport,JOJ Šport
+k-plus-sport1,K+Sport 1 VN
+k-plus-sport2,K+Sport 2 VN
+kanal-5,Kanal 5 DNK
+kanal5-se,Kanal 5 SE
+kayo-sports,Kayo Sports
+khl,KHL TV
+khl-prime,KHL TV Prime
+l-equipe,L'Équipe
+la-1,La 1
+la-2,La 2
+la-une-be,La Une Belgium
+Laligatv-bar,LaLiga TV BAR
+laliga-smartbank-tv,LaLiga TV Hypermotion
+laliga-smartbank-tv-m2,LaLiga TV Hypermotion 2
+laliga-smartbank-tv-m3,LaLiga TV Hypermotion 3
+movistar-laliga-1,LaLiga TV por Movistar Plus
+movistar-laliga-3,LaLiga TV por Movistar Plus 3
+laligatv-uk,LaLiga TV UK
+laola1-tv-at,LAOLA1 AT
+ligue-1-pass,Ligue 1 Pass UK
+lnb-tv,LNB TV
+loi-tv,LOI TV IE
+longhorn-network,Longhorn Network
+m4-sport,M4 Sport HU
+M6,M6
+magenta-sport,MagentaTV DE
+marquee-sports-network,Marquee Sports Network
+masn,MASN
+masn2,MASN 2
+match-football-1,Match Futbol 1
+match-football-2,Match Futbol 2
+match-football-3,Match Futbol 3
+match-premier,Match Premier (RU)
+match-tv,Match TV
+match-game,Match! Igra
+match-country,Match! Strana
+max-sport-1,MAX Sport 1 BG
+max-sport-2,MAX Sport 2 BG
+max-sport-3,MAX Sport 3 BG
+max-sport-4,MAX Sport 4 BG
+mega-tv,Mega GR
+mir-basketbola,Mir Basketbola
+mlb-network,MLB Network
+mlb-tv,MLB.TV
+mls-live,MLS Seasons Pass
+mola-tv,Mola TV ID
+mola-tv-italia,Mola TV IT
+vamos,Movistar #Vamos
+movistar-deportes,Movistar Deportes
+movistar-deportes-1,Movistar Deportes 1
+multideporte-1,Movistar Deportes 1
+movistar-deportes-2,Movistar Deportes 2
+multideporte-2,Movistar Deportes 2
+multideporte-3,Movistar Deportes 3
+multideporte-4,Movistar Deportes 4
+multideporte-5,Movistar Deportes 5
+multideporte-6,Movistar Deportes 6
+movistar-plus,Movistar Liga de Campeones
+moviestar-liga-de-campeones,Movistar Liga de Campeones 1
+moviestar-liga-de-campeones-2,Movistar Liga de Campeones 2
+movistar-liga-de-campeones-3,Movistar Liga de Campeones 3
+movistar-liga-de-campeones-4,Movistar Liga de Campeones 4
+mtv3,MTV3 FI
+multisports-1,MultiSports 1 FR
+multisports-2,MultiSports 2 FR
+multisports-3,MultiSports 3 FR
+multisports-4,MultiSports 4 FR
+multisports-5,MultiSports 5 FR
+multisports-6,MultiSports 6 FR
+uk-mutv,MUTV
+mysports-1,MySports 1
+mysports-2,MySports 2
+mysports-3,MySports 3
+mysports-4,MySports 4
+mysports-5,MySports 5
+mysports-6,MySports 6
+mysport-7,MySports 7
+mysport-8,MySports 8
+nba-league-pass,NBA League Pass
+us-nba-tv,NBA TV
+nba-tv,NBA TV LT
+nba-tv-pt,NBA TV Portugal
+tu-nba-tv,NBA TV TR
+nbc,NBC
+nbc-olympics-com,NBC Olympics
+nbcs-california,NBC Sports California
+us-nbcs-philadelphia-plus,NBC Sports Philadelphia+
+nbcsports-washington,NBC Sports Washington
+nesn,NESN
+netball-live,Netball Australia TV
+netflix,Netflix
+ca-nfl-network,NFL Network CA
+us-nfl-network,NFL Network US
+nfl-sunday-ticket,NFL Sunday Ticket
+nhl-network,NHL Network USA
+nova-sport-1,Nova Sport 1 CZ
+nova-sport-2,Nova Sport 2 CZ
+nova-sport-3,Nova Sport 3 CZ
+nova-sport-4,Nova Sport 4 CZ
+nova-sport-5,Nova Sport 5 CZ
+nova-sport-6,Nova Sport 6 CZ
+nova-sport,Nova Sport BG
+nova-tv,Nova TV HR
+nova-sports-1,Novasports 1
+nova-sports-2,Novasports 2
+nova-sports-3,Novasports 3
+nova-sports-4,Novasports 4
+nova-sports-prime,Novasports Prime
+npo-1,NPO 1
+nrk-1,NRK 1 NO
+nrk-2,NRK 2 NO
+nrk-3,NRK 3 NO
+nsport,nSport+
+ntv-tr,NTV TR
+o2-tv-fotbal,O2 TV Fotbal
+okko-sport,Okko Sport RU
+ontime-sports-1,ON Time Sports EG
+onefootball,OneFootball
+onefootball-brasil,OneFootball BR
+onefootball-deutschland,OneFootball DE
+onefootball-france,OneFootball FR
+onefootball-italia,OneFootball IT
+onefootball-uk,OneFootball UK
+onesoccer,OneSoccer CA
+optus-sports,Optus Sport
+telekom-sport-1,Orange Sport 1 RO
+telekom-sport-2,Orange Sport 2 RO
+telekom-sport-3,Orange Sport 3 RO
+telekom-sport-4,Orange Sport 4 RO
+orf-eins,ORF Eins
+paramount-plus-australia,Paramount+ AUS
+paramount-plus,Paramount+ US
+peacock,Peacock Premium
+play-sports-1,Play Sports 1
+play-sports-2,Play Sports 2
+play-sports-3,Play Sports 3
+play-sports-4,Play Sports 4
+play-sports-5,Play Sports 5
+polsat-sport,Polsat Sport
+polsat-sport-extra,Polsat Sport Extra
+polsat-sport-news,Polsat Sport News
+polsat-sport-premium-1,Polsat Sport Premium 1
+polsat-sport-premium-2,Polsat Sport Premium 2
+polsat-sport-premium-3,Polsat Sport Premium 3
+porto-canal,Porto Canal
+pptv-sport-china,PPTV Sport CN
+premier-sports,Premier Sports 1 IE
+premier-sports-2,Premier Sports 2 IE
+pfc-canal-do-futebol,Premiere Clubes
+prima-sport-1,Prima Sport 1
+prima-sport-2,Prima Sport 2
+prima-sport-3,Prima Sport 3
+prima-sport-4,Prima Sport 4
+prime,Prime TV NZ
+primetel,PrimeTel 1 HD CYP
+pro-tv,Pro TV Romania
+prosieben-maxx,ProSieben Maxx
+qaz-sport,Qazsport KAZ
+qq-sports,QQ Sports CN
+rai-1,Rai 1
+rai-italia-us,Rai Italia CA
+rai-sport-1,Rai Sport 1
+rcn-nuestra-tele,RCN Nuestra Tele
+rds,RDS
+rds-2,RDS 2
+real-madrid-tv,Real Madrid TV
+ren-tv,REN TV
+rik-2,RIK 2 CYP
+rmc-sport-1,RMC Sport 1
+rmc-sport-2,RMC Sport 2
+rmc-sport-3,RMC Sport 3
+root-sports-nw,Root Sports Northwest
+rsi-la-2-ch,RSI La 2
+rte-2,RTE2
+de-rtl,RTL
+rtl2,RTL 2 Hrvatska
+rtl-7,RTL 7
+cro-rtl,RTL Hrvatska
+rtp-1,RTP 1
+rtp-2,RTP 2
+rts-1,RTS 1 RS
+rts-2,RTS 2 RS
+rts-deux-ch,RTS Deux CH
+rts-sport,RTS Sport
+rtsh-1,RTSH 1 AL
+rtsh-sport,RTSH Sport AL
+rtvs-sport,RTV:Šport
+ruutu-plus,Ruutu+
+ruv,RÚV
+s-sport-2,S Sport 2 TR
+s-sport,S Sport TR
+s-sport-plus,S Sport+ TR
+s4c,S4C
+sat-1,Sat.1 DE
+sbs-6-nl,SBS 6
+sbs-viceland,SBS Viceland
+sbt,SBT BR
+sec-network,SEC Network
+servustv-osterreich,Servus TV AT
+setanta-sports-kazakhstan,Setanta Sports KZ
+setanta-sports-ua,Setanta Sports UA
+sevilla-fc-tv,Sevilla FC TV
+sic,SIC
+siminn-sport,SíminnSport
+sky-perfectv,Sky PerfecTV JP
+sky-sport-1-ch,Sky Sport 1 CH
+sky-sport-hd-1,Sky Sport 1 DE
+nz-sky-sport-1,Sky Sport 1 NZ
+sky-sport-10,Sky Sport 10 DE
+sky-sport-2,Sky Sport 2 CH
+sky-sport-hd-2,Sky Sport 2 DE
+nz-sky-sport-2,Sky Sport 2 NZ
+sky-sport-3,Sky Sport 3 DE
+nz-sky-sport-3,Sky Sport 3 NZ
+sky-sport-4-de,Sky Sport 4 DE
+sky-sport-4,Sky Sport 4 NZ
+sky-sport-5,Sky Sport 5 DE
+sky-sport-5-nz,Sky Sport 5 NZ
+sky-sport-6,Sky Sport 6 DE
+sky-sport-6-nz,Sky Sport 6 NZ
+sky-sport-7,Sky Sport 7 DE
+sky-sport-7-nz,Sky Sport 7 NZ
+sky-sport-8,Sky Sport 8 DE
+sky-sport-8-nz,Sky Sport 8 NZ
+sky-sport-9,Sky Sport 9 DE
+sky-sport-9-nz,Sky Sport 9 NZ
+sky-sport-collection,Sky Sport Action
+sky-sport-arena,Sky Sport Arena
+sky-sport-austria,Sky Sport Austria 1
+sky-sport-austria-2,Sky Sport Austria 2
+sky-sport-austria-3,Sky Sport Austria 3
+sky-sport-austria-4,Sky Sport Austria 4
+sky-bundesliga-1,Sky Sport Bundesliga 1 HD
+sky-bundesliga-2,Sky Sport Bundesliga 2 HD
+sky-bundesliga-3,Sky Sport Bundesliga 3 HD
+sky-bundesliga-4,Sky Sport Bundesliga 4 HD
+sky-bundesliga-5,Sky Sport Bundesliga 5 HD
+sky-bundesliga-6,Sky Sport Bundesliga 6 HD
+sky-bundesliga-7,Sky Sport Bundesliga 7 HD
+sky-bundesliga-8,Sky Sport Bundesliga 8 HD
+sky-bundesliga-9,Sky Sport Bundesliga 9 HD
+sky-sport-serie-a,Sky Sport Calcio
+sky-sport-football,Sky Sport Football
+sky-sport-nba,Sky Sport NBA
+nz-sky-sport-select,Sky Sport Select NZ
+sky-sport-top-event,Sky Sport Top Event
+sky-sport-uno,Sky Sport Uno
+sky-sports-action,Sky Sports Action
+sky-sports-arena,Sky Sports Arena
+sky-sports-cricket,Sky Sports Cricket
+sky-sports-football,Sky Sports Football
+sky-sports-main-event,Sky Sports Main Event
+sky-sports-mix,Sky Sports Mix
+sky-sports-nfl,Sky Sports NFL
+sky-sports-premier-league,Sky Sports Premier League
+sky-sports-red-button,Sky Sports Red Button
+sky-sports-plus,Sky Sports+
+sky-ticket,Sky Ticket
+sonyliv,Sony LIV
+sony-six,Sony Six
+ten-1,Sony Ten 1
+ten-2,Sony Ten 2
+ten-3,Sony Ten 3
+spark-sport,Spark Sport NZ
+spectrum-sports,Spectrum Sports
+spectrum-sportsnet,Spectrum SportsNet
+sports-network-la,Spectrum SportsNet LA
+spiler-tv,Spíler1 HU
+spiler-tv-2,Spíler2 HU
+cz-sport-1,Sport 1 Czechia
+hu-sport-1,Sport 1 Hungary
+il-sport-1,Sport 1 IL
+lt-sport-1,Sport 1 LT
+sport-1-uakraine,Sport 1 UA
+hu-sport-2,Sport 2 Hungary
+il-sport-2,Sport 2 IL
+sport-2-uakraine,Sport 2 UA
+sport-3,Sport 3 IL
+sport-4,Sport 4 IL
+sport-5,Sport 5 IL
+cro-sportklub-1,Sport Klub 1 HR
+rs-sportklub-1,Sport Klub 1 RS
+si-sportklub-1,Sport Klub 1 SI
+sportklub-10,Sport Klub 10 RS
+cro-sportklub-2,Sport Klub 2 HR
+rs-sportklub-2,Sport Klub 2 RS
+si-sportklub-2,Sport Klub 2 SI
+cro-sportklub-3,Sport Klub 3 HR
+rs-sportklub-3,Sport Klub 3 RS
+si-sportklub-3,Sport Klub 3 SI
+cro-sportklub-4,Sport Klub 4 HR
+rs-sportklub-4,Sport Klub 4 RS
+si-sportklub-4,Sport Klub 4 SI
+cro-sportklub-5,Sport Klub 5 HR
+rs-sportklub-5,Sport Klub 5 RS
+si-sportklub-5,Sport Klub 5 SI
+cro-sportklub-6,Sport Klub 6 HR
+rs-sportklub-6,Sport Klub 6 RS
+si-sportklub-6,Sport Klub 6 SI
+sportklub-7-rs,Sport Klub 7 RS
+sportklub-8,Sport Klub 8 RS
+sportklub-9,Sport Klub 9 RS
+sportklub,Sport Klub Polska
+sport-plus-tv,Sport Plus TV
+pt-sport-tv-1,Sport TV 1
+pt-sport-tv-2,Sport TV 2
+pt-sport-tv-3,Sport TV 3
+sport-tv-4,Sport TV 4
+sport-tv-5,Sport TV 5
+de-sport1,Sport1
+de-sport1-plus,Sport1+
+sportacentrs,SportaCentrs.com LV
+sportbox-ru,Sportbox.ru
+sportdeutschland-tv,SportDeutschland.TV
+sportdigital,Sportdigital Fussball
+sportdigital-fussball-2,Sportdigital Fussball 2
+sportkanalen,Sportkanalen SWE
+sport-plus-tv-ca,SportPlus CA
+sportsmax,SportsMax
+sportsnet-360,SportsNet 360
+sportsnet-east,SportsNet East
+sportsnet-one,SportsNet One
+sportsnet-ontario,SportsNet Ontario
+sportsnet-pacific,SportsNet Pacific
+sportsnet-west,SportsNet West
+sportsnet-world,Sportsnet World
+sportv,SporTV
+sporza,Sporza BE
+srf-zwei,SRF Zwei
+stan-sport,Stan Sport AU
+star-sports-1,Star Sports 1 IND
+star-sports-select-1,Star Sports 1 Select IND
+star-sports-2,Star Sports 2 IND
+star-sports-select-2,Star Sports 2 Select IND
+star-sports-3,Star Sports 3 IND
+star-plus-mx,Star+ North America
+stod-2-sport-2,Stöð 2 Sport 2 IS
+stod-2-sport-3,Stöð 2 Sport 3 IS
+stod-2-sport-4,Stöð 2 Sport 4 IS
+stod-2-sport,Stöð 2 Sport IS
+nzs.si,stream-nzs-si
+no-strive-sport,Strive Sport
+stv,STV
+si-sport-tv-1,ŠTV 1 SI
+si-sport-tv-2,ŠTV 2 SI
+si-sport-tv-3,ŠTV 3 SI
+sub,Sub
+super-sport-1,Super Sport 1 HD (Albania)
+super-sport-2,Super Sport 2 HD (Albania)
+super-sport-3,Super Sport 3 HD (Albania)
+super-sport-4,Super Sport 4 HD (Albania)
+super-sport-5,Super Sport 5 (Albania)
+supersport-twelve,SuperSport Cricket
+supersport-five,SuperSport Football
+supersport-six,SuperSport Grandstand
+supersport-seven,SuperSport La Liga
+supersport-select-sa,SuperSport PSL
+supersport-thirteen,SuperSport Rugby
+supersport-one,SuperSport Variety 1
+supersport-two,SuperSport Variety 2
+supersport-three,SuperSport Variety 3
+supersport-four,SuperSport Variety 4
+telecinco,Telecinco ES
+teledeporte,Teledeporte
+telekanal-futbol,Telekanal Futbol RU
+telemundo,Telemundo
+televen,televen
+tf1,TF1
+tfx,TFX
+tg-4,TG 4
+the-fa-player,The FA Player
+tigo-sports-bo,Tigo Sports Bolivia
+tigo-sports,Tigo Sports Paraguay
+la-deux-be,Tipik
+tivibu-spor,Tivibu Spor
+tivibu-spor-2,Tivibu Spor 2
+tivibu-spor-3,Tivibu Spor 3
+tivibu-spor-4,Tivibu Spor 4
+tnl-ca,TLN Canada
+tmc,TMC
+tnt,TNT
+tnt-brasil,TNT Brasil
+tnt-mexico,TNT Mexico
+bt-sport-1,TNT Sports 1
+bt-sport-2,TNT Sports 2
+bt-sport-3,TNT Sports 3
+bt-sport-espn,TNT Sports 4
+bt-sport-extra,TNT Sports 5
+tnt-sports,TNT Sports Argentina
+bt-sport-ultimate,TNT Sports Ultimate
+tod-sa,TOD KSA
+trt-spor,TRT Spor TR
+trt-spor-2,TRT Spor Yildiz TR
+true-premier-football-1,True Premier Football HD 1
+true-premier-football-2,True Premier Football HD 2
+true-premier-football-3,True Premier Football HD 3
+true-premier-football-4,True Premier Football HD 4
+true-premier-football-5,True Premier Football HD 5
+tsn1,TSN 1
+tsn2,TSN 2
+tsn3,TSN 3
+tsn4,TSN 4
+tsn5,TSN 5
+tdn,TUDN Mexico
+univision-deportes-1,TUDN USA
+no-tv2,TV 2 NO
+tv2-sumo,TV 2 Play
+tv-2-sport,TV 2 Sport
+tv-2-sport-1,TV 2 Sport 1
+tv-2-sport-2,TV 2 Sport 2
+tv-2-sport-premium,TV 2 Sport Premium
+tv-2-sport-premium-2,TV 2 Sport Premium 2
+tv2-sport-x,TV 2 Sport X
+tv-2-zebra,TV 2 Zebra
+tv3-plus,TV 3+
+tv4,TV 4 SE
+se-tv6,TV 6 Sverige
+tv-slo-2,TV Slovenija 2
+tv-start,TV Start RU
+dk-tv3,TV3 MAX Danmark
+ee-tvplay-sports-plus,TV3 Sport 2 EE
+lt-tvplay-sports-plus,TV3 Sport 2 LT
+ee-tvplay-sports,TV3 Sport EE
+lt-tvplay-sports,TV3 Sport LT
+it-tv8,TV8
+tva-sports,TVA Sports
+tvcg-2,TVCG 2
+tves,TVes
+pt-tvi,TVI
+duke,TVNZ Duke
+tvp-1,TVP 1
+tvp-sport,TVP Sport
+stream-twitch-tv,Twitch
+tyc-sports,TyC Sports ARG
+uefa-tv,UEFA TV
+universo,Universo
+univision-east,Univision USA
+usa-network,USA Network
+utv,UTV NI
+viasat-urheilu,V Sport + Suomi
+fi-viasat-sport,V Sport 1 FI
+viasport-1,V Sport 1 NO
+viasat-jaakiekko,V Sport 1 Suomi
+viasport-2,V Sport 2 NO
+viasat-jalkapallo,V Sport 2 Suomi
+viasport-3,V Sport 3 NO
+viasat-fotboll,V Sport Football
+fi-viasat-sport-premium,V Sport Premium
+fi-viasat-hockey,V Sport Vinter
+veikkaustv,Veikkaus TV
+veronica-tv,Veronica
+vg-plus,VG+ NO
+viaplay-dk,Viaplay DK
+viaplay-eesti,Viaplay EE
+elisa-viihde-sport,Viaplay Elisa Viihde FI
+viaplay-island,Viaplay IS
+viaplay-lietuva,Viaplay LT
+viaplay-latvija,Viaplay LV
+viaplay-nederland,Viaplay NL
+viaplay-kjop,Viaplay NO
+viaplay-polska,Viaplay PL
+viaplay-kop,Viaplay SE
+premier-sports,Viaplay Sports 1 UK
+premier-sports-2,Viaplay Sports 2 UK
+viasat-sport-east,Viasat Sport RU
+vidio,Vidio.com
+volleyball-tv,Volleyball World
+voo-sport-world-1,Voo Sport World 1
+voo-sport-world-2,Voo Sport World 2
+voo-sport-world-3,Voo Sport World 3
+voyo-ro,VOYO
+vtv-plus-uy,VTV (Uruguay)
+w9,W9
+watch-espnau-espn,WatchESPN Australia
+wbal-tv,WBAL TV
+welt-tv,WELT
+willov-tv,Willow US
+willov-xtra,Willow XTRA US
+win-sports,Win Sports CO
+wowow,Wowow JP
+wvtm-tv,WVTM 13
+wwbt-tv,WWBT
+yes,YES
+yle-tv2,Yle TV2
+xee,youSee
+russian-premier-liga-youtube,YouTube
+russian-premier-liga-youtube,YouTube
+zdf,ZDF
+ziggo-sport-14,Ziggo Sport 14
+ziggo-select,Ziggo Sport 2
+ziggo-racing,Ziggo Sport 3
+ziggo-sport-tennis,Ziggo Sport 4
+ziggo-extra,Ziggo Sport 5
+ziggo-docu,Ziggo Sport Docu

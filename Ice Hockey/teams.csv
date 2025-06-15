@@ -1,0 +1,395 @@
+STG,TSDB
+Anaheim Ducks,Anaheim Ducks
+Arizona Coyotes,Arizona Coyotes
+Boston Bruins,Boston Bruins
+Buffalo Sabres,Buffalo Sabres
+Calgary Flames,Calgary Flames
+Carolina Hurricanes,Carolina Hurricanes
+Chicago Blackhawks,Chicago Blackhawks
+Colorado Avalanche,Colorado Avalanche
+Columbus Blue Jackets,Columbus Blue Jackets
+Dallas Stars,Dallas Stars
+Detroit Red Wings,Detroit Red Wings
+Edmonton Oilers,Edmonton Oilers
+Florida Panthers,Florida Panthers
+Los Angeles Kings,Los Angeles Kings
+Minnesota Wild,Minnesota Wild
+Montreal Canadiens,Montreal Canadiens
+Nashville Predators,Nashville Predators
+New Jersey Devils,New Jersey Devils
+New York Islanders,New York Islanders
+New York Rangers,New York Rangers
+Ottawa Senators,Ottawa Senators
+Philadelphia Flyers,Philadelphia Flyers
+Pittsburgh Penguins,Pittsburgh Penguins
+San Jose Sharks,San Jose Sharks
+Seattle Kraken,Seattle Kraken
+St. Louis Blues,St. Louis Blues
+Tampa Bay Lightning,Tampa Bay Lightning
+Toronto Maple Leafs,Toronto Maple Leafs
+Vancouver Canucks,Vancouver Canucks
+Vegas Golden Knights,Vegas Golden Knights
+Washington Capitals,Washington Capitals
+Winnipeg Jets,Winnipeg Jets
+Abbotsford Canucks,Abbotsford Canucks
+Bakersfield Condors,Bakersfield Condors
+Belleville Senators,Belleville Senators
+Bridgeport Islanders,Bridgeport Islanders
+Charlotte Checkers,Charlotte Checkers
+Chicago Wolves,Chicago Wolves
+Cleveland Monsters,Cleveland Monsters
+Colorado Eagles,Colorado Eagles
+Grand Rapids Griffins,Grand Rapids Griffins
+Hartford Wolf Pack,Hartford Wolf Pack
+Henderson Silver Knights,Henderson Silver Knights
+Hershey Bears,Hershey Bears
+Iowa Wild,Iowa Wild
+Laval Rocket,Laval Rocket
+Lehigh Valley Phantoms,Lehigh Valley Phantoms
+Manitoba Moose,Manitoba Moose
+Milwaukee Admirals,Milwaukee Admirals
+Ontario Reign,Ontario Reign
+Providence Bruins,Providence Bruins
+Rochester Americans,Rochester Americans
+Rockford IceHogs,Rockford IceHogs
+San Diego Gulls,San Diego Gulls
+San Jose Barracuda,San Jose Barracuda
+Springfield Thunderbirds,Springfield Thunderbirds
+Stockton Heat,Stockton Heat
+Syracuse Crunch,Syracuse Crunch
+Texas Stars,Texas Stars
+Toronto Marlies,Toronto Marlies
+Tucson Roadrunners,Tucson Roadrunners
+Utica Comets,Utica Comets
+Wilkes-Barre/Scranton,Wilkes-Barre Scranton Penguins
+Amur Khabarovsk,Amur Khabarovsk
+Avangard Omsk,Avangard Omsk
+Bars Kazan,Ak Bars Kazan
+Barys Astana,Barys Nur-Sultan
+Cherepovets,Severstal Cherepovets
+SEVERSTAL CHEREPOVETS,Severstal Cherepovets
+CSKA Moscow,CSKA Moscow
+CSKA,CSKA Moscow
+Dinamo Minsk,Dinamo Minsk
+Dinamo Riga,Dinamo Riga
+Dynamo Moscow,Dynamo Moscow
+DINAMO MOSKVA,Dynamo Moscow
+Jokerit,Jokerit
+Kunlun,Kunlun Red Star
+Lokomotiv Yaroslavl,Lokomotiv Yaroslavl
+LOKOMOTIV YAROSLAV,Lokomotiv Yaroslavl
+Lokomotiv,Lokomotiv Yaroslavl
+Metallurg Magnitogorsk,Metallurg Magnitogorsk
+Metallurg,Metallurg Magnitogorsk
+METALLURG MG,Metallurg Magnitogorsk
+Nizhny Novgorod,Torpedo Nizhny Novgorod
+TORPEDO,Torpedo Nizhny Novgorod
+Niznekamsk,Neftekhimik Nizhnekamsk
+Salavat Ufa,Salavat Yulaev Ufa
+Sibir Novosibirsk,Sibir Novosibirsk
+SKA St. Petersburg,SKA Saint Petersburg
+Sochi,HC Sochi
+Spartak Moscow,Spartak Moscow
+Spartak,Spartak Moscow
+Tractor Chelyabinsk,Traktor Chelyabinsk
+Vityaz,Vityaz Podolsk
+Vladivostok,Admiral Vladivostok
+Yekaterinburg,Avtomobilist Yekaterinburg
+AVTOMOBILIST,Avtomobilist Yekaterinburg
+Brynas,Brynäs IF
+Djurgardens,Djurgårdens IF
+Farjestad BK,Färjestad BK
+Frolunda,Frölunda HC
+Oskarshamn,IK Oskarshamn
+Leksands,Leksands IF
+Linkopings,Linköpings HC
+Lulea,Luleå HF
+Malmo,Malmö Redhawks
+Orebro,Örebro HK
+Rogle,Rögle BK
+Skelleftea,Skellefteå AIK
+Timra,Timrå IK
+Vaxjo,Växjö Lakers
+Assat,Assat
+Hameenlinna,Hämeenlinnan
+IFK Helsinki,IFK Helsinki
+Ilves,Ilves
+Jukurit,Jukurit
+Jyvaskyla,JYP
+KalPa,KalPa
+Karpat,Oulun Kärpät
+KooKoo,KooKoo
+Lukko,Lukko
+Pelicans,Pelicans
+SaiPa,SaiPa
+Tappara,Tappara
+TPS Turku,TPS Turku
+Vaasan Sport,Vaasan Sport
+Zlin,Berani Zlín
+Liberec,Bílí Tygři Liberec
+Karlovy Vary,Karlovy Vary
+Kometa Brno,Kometa Brno
+Litvinov,Litvinov
+Mlada Boleslav,Mladá Boleslav
+Ceske Budejovice,Motor České Budějovice
+Mountfield HK,Mountfield HK
+Trinec,Oceláři Třinec
+Olomouc,Olomouc
+Pardubice,Pardubice
+Plzen,Plzen
+Kladno,Rytíři Kladno
+Sparta Prague,Sparta Prague
+Vitkovice,Vitkovice
+Banska Bystrica,Ban Bystrica
+Dukla Trencin,Dukla Trencin
+Kosice,Kosice
+Liptovsky Mikulas,Liptovsky Mikulas
+Michalovce,Michalovce
+Nitra,Nitra
+Nove Zamky,Nove Zamky
+Poprad,Poprad
+Presov,HC 21 Prešov
+Slovan Bratislava,Slovan Bratislava
+Spisska Nova Ves,HK Spišská Nová Ves
+Zvolen,Zvolen
+Frisk Asker,Frisk Asker
+Gruner,Grüner
+Lillehammer,Lillehammer
+Manglerud,Manglerud Star
+Ringerike,Ringerike Panthers
+Sparta Sarpsborg,Sparta Warriors
+Stavanger,Stavanger Oilers
+Stjernen,Stjernen
+Storhamar,Storhamar
+Valerenga,Vålerenga
+Brandon Wheat Kings,Brandon Wheat Kings
+Calgary Hitmen,Calgary Hitmen
+Edmonton Oil Kings,Edmonton Oil Kings
+Everett Silvertips,Everett Silvertips
+Kamloops Blazers,Kamloops Blazers
+Kelowna Rockets,Kelowna Rockets
+Kootenay Ice,Winnipeg Ice
+Lethbridge Hurricanes,Lethbridge Hurricanes
+Medicine Hat Tigers,Medicine Hat Tigers
+Moose Jaw Warriors,Moose Jaw Warriors
+Portland Winterhawks,Portland Winterhawks
+Prince Albert Raiders,Prince Albert Raiders
+Prince George Cougars,Prince George Cougars
+Red Deer Rebels,Red Deer Rebels
+Regina Pats,Regina Pats
+Saskatoon Blades,Saskatoon Blades
+Seattle Thunderbirds,Seattle Thunderbirds
+Spokane Chiefs,Spokane Chiefs
+Swift Current Broncos,Swift Current Broncos
+Tri-City Americans,Tri-City Americans
+Vancouver Giants,Vancouver Giants
+Victoria Royals,Victoria Royals
+Barrie Colts,Barrie Colts
+Erie Otters,Erie Otters
+Flint Firebirds,Flint Firebirds
+Guelph Storm,Guelph Storm
+Hamilton Bulldogs,Hamilton Bulldogs
+Kingston Frontenacs,Kingston Frontenacs
+Kitchener Rangers,Kitchener Rangers
+London Knights,London Knights
+Mississauga Steelheads,Mississauga Steelheads
+Niagara IceDogs,Niagara IceDogs
+North Bay Battalion,North Bay Battalion
+Oshawa Generals,Oshawa Generals
+Ottawa 67s,Ottawa 67s
+Owen Sound Attack,Owen Sound Attack
+Peterborough Petes,Peterborough Petes
+Saginaw Spirit,Saginaw Spirit
+Sarnia Sting,Sarnia Sting
+Soo Greyhounds,Soo Greyhounds
+Sudbury Wolves,Sudbury Wolves
+Windsor Spitfires,Windsor Spitfires
+Acadie-Bathurst Titan,Acadie-Bathurst Titan
+Baie-Comeau Drakkar,Baie-Comeau Drakkar
+Blainville-Boisbriand Armada,Blainville-Boisbriand Armada
+Cape Breton Screaming Eagles,Cape Breton Eagles
+Charlottetown Islanders,Charlottetown Islanders
+Chicoutimi Sagueneens,Chicoutimi Sagueneens
+Drummondville Voltigeurs,Drummondville Voltigeurs
+Gatineau Olympiques,Gatineau Olympiques
+Halifax Mooseheads,Halifax Mooseheads
+Moncton Wildcats,Moncton Wildcats
+Quebec Remparts,Quebec Remparts
+Rimouski Oceanic,Rimouski Oceanic
+Rouyn-Noranda Huskies,Rouyn-Noranda Huskies
+Saint John Sea Dogs,Saint John Sea Dogs
+Shawinigan Cataractes,Shawinigan Cataractes
+Sherbrooke Phoenix,Sherbrooke Phoenix
+Val-d'Or Foreurs,Val-dOr Foreurs
+Victoriaville Tigres,Victoriaville Tigres
+AIK,AIK IF
+Almtuna,Almtuna IS
+BIK Karlskoga,BIK Karlskoga
+Vita Hasten,HC Vita Hästen
+HV 71,HV71
+IF Bjorkloven,IF Björklöven
+Kristianstads,Kristianstads IK
+Modo,Modo Hockey
+Mora,Mora IK
+Sodertalje,Södertälje SK
+Tingsryds,Tingsryds AIF
+Troja/Ljungby,Troja-Ljungby
+Vasterviks IK,Västerviks IK
+Vasteras,VIK Västerås HK
+Bolzano,Bolzano
+Bratislava,Bratislava
+Dornbirn,Dornbirn
+Fehervar AV19,Fehervar AV19
+Graz 99ers,Graz99ers
+Val Pusteria,HC Pustertal Wölfe
+TWK Innsbruck,HC TWK Innsbruck
+HK Olimpija,HK Olimpija
+Klagenfurt,Klagenfurt
+Znojmo,Orli Znojmo
+Salzburg,Salzburg
+Liwest Linz,Steinbach Black Wings 1992
+Vienna Capitals,Vienna Capitals
+Villach,Villach
+Asiago,Asiago Hockey 1935
+Black Wings Linz,Steinbach Black Wings 1992
+Vorarlberg,Pioneers Vorarlberg
+Almetyevsk,Almetyevsk
+Bars,Bars Kazan
+Chelmet Chelyabinsk,Chelmet Chelyabinsk
+CSK VVS,CSK VVS Samara
+Dinamo St. Petersburg,Dinamo St. Petersburg
+Gornyak,Gornyak
+HC Rostov,HC Rostov
+HC Yugra,HC Yugra
+Izhevsk,HC Izhstal
+Khimik,Khimik
+Krasnoyarsk,Sokol Krasnoyarsk
+Kurhan,Zauralie Kurgan
+Lada,HC Lada Togliatti
+Metallurg Novokuznetsk,Metallurg Novokuznetsk
+Omskie Yastreby,Omskie Krylia
+Orsk,Yuzhny Ural Orsk
+Penza,Penza
+Perm,Molot-Prikamye Perm
+Ryazan,HC Ryazan
+SKA Neva St. Petersburg,SKA-Neva
+Tambov,HC Tambov
+Toros Neftekamsk,Toros Neftekamsk
+Tyumen,Rubin Tyumen
+Voronezh,Buran Voronezh
+Yermak Angarsk,Yermak Angarsk
+Bordeaux,Bordeaux Boxers
+Briancon,Briancon Red Devils
+Grenoble,Brûleurs de Loups
+Cergy-Pontoise,Cergy-Pontoise
+Chamonix Mont-Blanc,Chamonix Pionniers
+Rouen,Dragons de Rouen
+Angers,Ducs
+Amiens,Gothiques
+Anglet,Hormadi
+Nice,Nice Aigles
+Gap,Rapaces Gap
+Mulhouse,Scorpions de Mulhouse
+Adler Mannheim,Adler Mannheim
+Augsburger Panther,Augsburger Panther
+Bietigheim/Bissingen,Bietigheim-Bissingen
+Bremerhaven,Bremerhaven
+Dusseldorf,Dusseldorf
+Red Bull München,EHC Red Bull München
+Eisbaren Berlin,Eisbären Berlin
+ERC Ingolstadt,ERC Ingolstadt
+Grizzly Wolfsburg,Grizzly Wolfsburg
+Iserlohn Roosters,Iserlohn Roosters
+Kolner,Kolner
+Krefeld Pinguine,Krefeld Pinguine
+Nurnberg Ice Tigers,Nürnberg Ice Tigers
+Schwenninger,Schwenninger
+Straubing Tigers,Straubing Tigers
+Brasov,ASC Corona Brașov
+DEAC,DEAC
+DAB,Dunaújvárosi Acélbikák
+DVTK,DVTK
+Fehervari Titanok,Fehérvári Titánok
+Ferencvaros,Ferencvárosi TC
+Gheorgheni,Gyergyói HK
+Gyori ETO,Györi ETO HC
+Csikszereda,HSC Csíkszereda
+MAC Ujbuda,MAC Ujbuda
+Ujpest,Újpesti TE
+Daugavpils,HK Dinaburga
+Mogo,HK Mogo
+HK Olimp,HK Olimp Venta 2002
+Riga Prizma,HK Prizma Riga
+HS Riga,HS Riga
+Liepaja,Liepaja
+Zemgale,Zemgale
+Krakow,Comarch Cracovia
+Torun,Energa Toruń
+GKS Katowice,GKS Katowice
+Tychy,GKS Tychy
+Jastrzebie,JKH GKS Jastrzębie
+MMKS Podhale,Podhale Nowy Targ
+Sanok,STS Sanok
+Unia Oswiecim,Unia Oświęcim
+Zaglebie Sosnowiec,Zagłębie Sosnowiec
+Ambri-Piotta,Ambri-Piotta
+Bern,Bern
+Biel,Biel
+Davos,Davos
+Fribourg,Fribourg
+Langnau Tigers,Langnau Tigers
+Lausanne,Lausanne HC
+Lugano,Lugano
+Rapperswil,Rapperswil
+Servette,Servette
+Zug,Zug
+ZSC Lions,Zurich
+EHC Kloten,EHC Kloten
+Ajoie,HC Ajoie
+Belfast,Belfast Giants
+Cardiff,Cardiff Devils
+Coventry,Coventry Blaze
+Dundee,Dundee Stars
+Fife,Fife Flyers
+Glasgow,Glasgow Clan
+Guildford,Guildford Flames
+Manchester,Manchester Storm
+Nottingham,Nottingham Panthers
+Sheffield,Sheffield Steelers
+Austria,Austria Ice Hockey
+Canada,Canada Ice Hockey
+China,China Ice Hockey
+Czech Republic,Czech Republic Ice Hockey
+Czechia,Czech Republic Ice Hockey
+Denmark,Denmark Ice Hockey
+Finland,Finland Ice Hockey
+France,France Ice Hockey
+Germany,Germany Ice Hockey
+Great Britain,Great Britain Ice Hockey
+Italy,Italy Ice Hockey
+Kazakhstan,Kazakhstan Ice Hockey
+Latvia,Latvia Ice Hockey
+Norway,Norway Ice hockey
+Russia,Russian Olympic Committee Ice Hockey
+Slovakia,Slovakia Ice Hockey
+Sweden,Sweden Ice Hockey
+Switzerland,Switzerland Ice Hockey
+United States,USA Ice Hockey
+USA,USA Ice Hockey
+Poland,Poland Ice Hockey
+Aalborg,Aalborg
+AKM,AKM
+Altay Barnaul,Dynamo-Altay
+Chelny,HC Chelny
+HK Norilsk,HC Norilsk
+Kristall Saratov,Kristall Saratov
+Omskie Krylia,Omskie Krylia
+Perm,Molot Prikamye Perm
+SKA Neva St. Petersburg,SKA Neva
+Zvezda Chekhov,HC Zvezda Moscow
+Kalmar,Kalmar HC
+Nybro,Nybro Vikings
+Ostersund,Östersunds IK
+Vasteras,Västerviks IK
+Vasterviks IK,VIK Västerås HK
+Sonderjyske Ishockey,Sonderjyske Ishockey
